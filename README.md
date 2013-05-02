@@ -34,6 +34,5 @@ To create a new progressView
     }
     
     
-    ![ScreenShot](https://raw.github.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
 
 
